@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wbr19w3nw-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/wbr19w3nw-java-springboot
